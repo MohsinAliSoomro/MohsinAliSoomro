@@ -25,4 +25,4 @@
 ![](https://img.shields.io/badge/DB-SQL-informational?style=flat&logo=MySQL&logoColor=white&color=44b0fc)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=44b0fc)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinalisoomro)](https://github.com/mohsinalisoomro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinalisoomro)](https://github.com/mohsinalisoomro/github-readme-stat&show_icons=true&theme=onedarks)

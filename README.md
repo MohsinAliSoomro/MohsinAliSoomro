@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on Open Source
 - :smile: Contact :point_right: [Fiverr](https://www.fiverr.com/dvlopermohsin?up_rollout=true) :point_right: [LinkedIn](https://www.linkedin.com/in/mohsin-ali-soomro/) :point_right: [Facebook](https://web.facebook.com/profile.php?id=100004936470736) :point_right: WhatsApp :heavy_plus_sign: :nine: :three: :one: :one: :three: :four: :zero: :three: :zero: :seven: :eight:
 
-[![Mohsin Ali Soomro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsinalisoomro)](https://github.com/mohsinalisoomro/github-readme-stats)
+[![Mohsin Ali Soomro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohsinalisoomro&show_icons=true&theme=onedark)](https://github.com/mohsinalisoomro/github-readme-stats)
 
 ### Technologies & Tech-Stack
 ---

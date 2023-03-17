@@ -3,11 +3,8 @@
 <!--
 **MohsinAliSoomro/MohsinAliSoomro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-> I am mern Stack developer working since more then a year one build various application on mern stack. 
----
-> I am ***Freelancer*** at The Fiverr and other market places to give them service of **Web Aplication Building** since more then :one: year  
----
-> I am final year student of ***Information Technology***, my FYP Project is about E-Examination System that will help in university to automate exam workload
+> Hello, I am a software developer with 3 years of experience building web applications using ReactJS, NodeJS, NextJS, Tailwind CSS, and Material UI. Throughout my career, I have gained expertise in using AWS Amplify, AWS Lambda, and Serverless to build scalable and robust cloud-powered applications. With my proficiency in these technologies, I am able to create highly responsive user interfaces and scalable backend systems. Additionally, I have experience working with various data sources and APIs, including blockchain technology such as NFTs. My knowledge of AWS services and serverless architecture enables me to build scalable and secure cloud applications with ease. I have a proven track record of writing efficient and maintainable code, and I am always eager to learn and implement modern software development practices. Overall, I believe that my experience and knowledge make me an excellent fit for web application development teams looking to build modern, scalable, and efficient applications using best practices and cutting-edge technologies. 
+
 
 - 🔭 I’m currently working on full stack developer
 - 🌱 I’m currently learning Advance javascript concept, aws, react native
